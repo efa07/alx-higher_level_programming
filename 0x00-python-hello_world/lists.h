@@ -14,9 +14,9 @@ typedef struct list_s
 	struct list_s *link;
 } list_t;
 
-size_t print_listint(const listint_t *h);
-listint_t *add_nodeint(listint_t **head, const int n);
-void free_listint(listint_t *head);
-int check_cycle(listint_t *list);
+size_t print_listint(const list_t *h);
+list_t *add_nodeint(list_t **head, const int n);
+void free_listint(list_t *head);
+int check_cycle(list_t *list);
 
 #endif 
