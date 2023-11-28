@@ -1,6 +1,8 @@
+#include <stdlib.h>
 #include "lists.h"
+#include <stdio.h>
 /**
- * insert_node - Insert node in order to linkedlist
+ * insert_node - Insert node in to linkedlist
  * @head: head of linkedlist
  * @number: number to be added
  * Return: the address of new node
