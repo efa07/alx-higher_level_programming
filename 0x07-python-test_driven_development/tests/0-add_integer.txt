@@ -37,8 +37,8 @@ Test int argument and check default second:
 
 Checking positive with negative:
 
-    >>> add_integer(1, -6)
-    -5 
+    >>> add_integer(2, -6)
+    -4 
 
 Checking negative with positive:
 
