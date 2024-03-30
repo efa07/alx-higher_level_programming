@@ -6,7 +6,8 @@ displays the value of the X-Request-Id
 variable found in the header ofthe response.
 """
 
-import sys , urllib.request
+import sys
+import urllib.request
 
 
 if __name__ == "__main__":
