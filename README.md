@@ -2,14 +2,14 @@
 Welcome to the ALX Higher Level Programming GitHub repository! This repository contains a collection of projects and exercises related to higher-level programming languages and concepts, primarily focusing on Python and JavaScript. These projects are part of the ALX Software Engineering Program.
 
 ## Table of Contents
-[About](#About)
-[Projects](#Projects)
-[Installation](#Installation)
-[Usage](#Usage)
-[Contributing](#Contributing)
-[License](#License)
-[Contact](#Contact)
-[About](#About)
+* [About](#About)
+* [Projects](#Projects)
+* [Installation](#Installation)
+* [Usage](#Usage)
+* [Contributing](#Contributing)
+* [License](#License)
+* [Contact](#Contact)
+* [About](#About)
 
 ## About
 This repository is dedicated to learning higher-level programming concepts using languages such as Python and JavaScript. It includes a variety of projects that cover different aspects of programming, from basic syntax and data structures to more advanced topics like network programming and web development.
