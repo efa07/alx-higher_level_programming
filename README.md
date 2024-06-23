@@ -42,10 +42,9 @@ The repository is organized into various directories, each corresponding to diff
 
 ## Installation
 To use the code in this repository, clone it to your local machine using the following command:
-
-bash
+`bash
 Copy code
-git clone https://github.com/efa07/alx-higher_level_programming.git
+git clone https://github.com/efa07/alx-higher_level_programming.git`
 ## Usage
 Each project directory contains a README file with detailed instructions on how to run and test the scripts. Navigate to the specific project directory and follow the instructions provided.
 
