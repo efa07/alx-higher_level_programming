@@ -43,8 +43,6 @@ The repository is organized into various directories, each corresponding to diff
 ## Installation
 To use the code in this repository, clone it to your local machine using the following command:
 ```
-bash
-Copy code
 git clone https://github.com/efa07/alx-higher_level_programming.git
 ```
 ## Usage
@@ -52,8 +50,6 @@ Each project directory contains a README file with detailed instructions on how 
 
 Example for 0x00-python-hello_world:
 ```
-bash
-Copy code
 cd 0x00-python-hello_world
 ./script_name.py
 ```
